@@ -13,3 +13,7 @@ open a PR, and merge — with a small, safe change.
 2. Create a branch
 3. Make a small change
 4. Open a pull request
+
+## License
+
+This project is unlicensed practice code — feel free to fork and experiment.
