@@ -16,4 +16,4 @@ open a PR, and merge — with a small, safe change.
 
 ## License
 
-This project is unlicensed practice code — feel free to fork and experiment.
+MIT — see [LICENSE](LICENSE).
